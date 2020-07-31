@@ -1,0 +1,66 @@
+Person: Alan Ng
+CaseNum: [1723, 1760, 1968, 2025, 2108, 2116, 2198, 2527, 2718, 3025]
+
+    Same Building Or/And Block:  
+    Block 5, Bauhinia Mansions, Whampoa Garden Site 11 [2025]
+    Block 5, Bauhinia Mansions, Whampoa Garden Site 11 [2116]
+
+    All cases: 
+    Block 6, Whampoa Garden (Phase 4), Palm Mansions [1723]
+    Block 6, Palm Mansions, Whampoa Garden [1760]
+    Block 1, Palm Mansions, Whampoa Garden [1968]
+    Block 5, Bauhinia Mansions, Whampoa Garden Site 11 [2025]
+    Block 6, Palm Mansions, Whampoa Garden Site 4 [2108]
+    Block 5, Bauhinia Mansions, Whampoa Garden Site 11 [2116]
+    Block 6, Site 4, Whampoa Garden [2198]
+    Block 6, Palm Mansions, Phase 4, Whampoa Garden [2527]
+    Block 2, Palm Mansions, Phase 4, Whampoa Garden [2718]
+    Block 2, Lily Mansions, Site 9, Whampoa Garden [3025]
+
+Person: Leung Hin Ming
+CaseNum: [1818, 2127, 2742]
+
+    All cases: 
+    Shek Cheung House, Shek Lei (II) Estate [1818]
+    Shek Yan House, Shek Lei (II) Estate [2127]
+    Shek Fu House, Shek Lei (II) Estate [2742]
+
+Person: Cheng Ching Hei
+CaseNum: []
+
+Person: Kenton Lam
+CaseNum: []
+
+Person: Pang King Lok
+CaseNum: []
+
+Person: Angus Tsang
+CaseNum: []
+
+Person: Ken Leung
+CaseNum: []
+
+Person: William Lam
+CaseNum: []
+
+Person: Wilson Chang
+CaseNum: []
+
+Person: Tommy Chan
+CaseNum: [1741]
+
+    All cases: 
+    Block K, Sunshine City [1741]
+
+Person: So Shu Wai
+CaseNum: []
+
+Person: Yeung Hau Lam
+CaseNum: []
+
+Person: Lam Chi Ho
+CaseNum: []
+
+Person: Chin Kiu Pak
+CaseNum: []
+
